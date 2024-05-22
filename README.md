@@ -116,3 +116,12 @@ It's pipeline consists of :
 
 ![TOPGUN](swissnyf/media/TOPGUN.jpeg)
 
+## Contributors
+- [Somnath Kumar](https://github.com/hex-plex)
+- [Eshaan Agarwal](https://github.com/eshaanagarwal)
+- [Vaibhav Tripathi](https://github.com/oyetripathi)
+- [Dhruv Jain](https://github.com/maximus-21)
+- [Raunak Pandey](https://github.com/patrick-batman)
+- [Aakash Sharma](https://github.com/Aacashh)
+- [Vidit Khandelwal](https://github.com/TheVidz)
+- [Sanjana Garai](https://github.com/sanjanagarai)
